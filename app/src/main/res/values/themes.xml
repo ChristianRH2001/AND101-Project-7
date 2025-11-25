@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.AND101_Project_7" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Main app branding colors -->
+        <item name="android:statusBarColor">#FFCC00</item>
+        <item name="android:navigationBarColor">#FFCC00</item>
+        <item name="android:fontFamily">@font/pokemon_font</item>
+
+        <!-- Material colors -->
+        <item name="colorPrimary">#FFCC00</item>
+        <item name="colorSecondary">#DAA520</item>
+
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
